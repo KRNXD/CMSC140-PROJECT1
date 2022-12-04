@@ -1,6 +1,6 @@
 // Kieran Yalla
 // Class: CMSC140 CRN
-// Instructor: Professor (REDACTED)
+// Instructor: Professor Koo
 // Programming Project 1
 // Write a program that presents itself and interacts with the user
 // Due Date: 9/21/21 4:00pm EST
